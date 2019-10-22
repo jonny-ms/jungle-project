@@ -48,6 +48,7 @@ group :development, :test do
   gem 'capybara'
   gem 'poltergeist'
   gem 'database_cleaner'
+  # gem 'selenium-webdriver'
 end
 
 group :development do
